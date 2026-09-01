@@ -612,13 +612,6 @@ OpenWeather API
 This keeps external integrations modular and independent from the main
 LangGraph workflow.
 
-## 🧑‍💻 Author
-
-**Himanshu**
-
-Built as a practical exploration of: - Agentic AI - LangGraph - Model
-Context Protocol (MCP) - LLM-powered applications - Multi-agent
-orchestration - External tool integration - Persistent agent state
 
 ## ⭐ Project Highlights
 
